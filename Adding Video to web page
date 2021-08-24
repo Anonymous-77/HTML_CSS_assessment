@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="center">
+        <h1>Short Video about AI</h1>
+        <iframe width="720" height="480" src="https://www.youtube.com/embed/zjeBGkS4LAA">
+        </iframe>
+    </div>
+</body>
+</html>
